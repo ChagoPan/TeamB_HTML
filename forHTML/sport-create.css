@@ -75,7 +75,7 @@ a {text-decoration: none;}
 
 
 
-.sportPhoto{
+.basketballPhoto{
     width: 700px;
     height: 700px;
     background-image: url("../public/photo/activity-basketballCourt.jpg");
@@ -84,8 +84,8 @@ a {text-decoration: none;}
     background-repeat: no-repeat;
     border-radius: 50%;
     position: absolute;
-    right: 400px;
-    top: 50px;
+    right: 20%;
+    top: 7%;
     /* opacity: 60%; */
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
@@ -95,7 +95,7 @@ a {text-decoration: none;}
 
 }
 
-.sportPhotoHover{
+.basketballPhotoHover{
     width: 700px;
     height: 700px;
     background-image: url("../public/photo/activity-basketballCourt.jpg");
@@ -104,8 +104,8 @@ a {text-decoration: none;}
     background-repeat: no-repeat;
     border-radius: 50%;
     position: absolute;
-    right: 400px;
-    top: 50px;
+    right: 20%;
+    top: 7%;
     opacity: 60%;
     transition: opacity 0.5s ease-in-out;
     z-index: -1;
@@ -115,7 +115,7 @@ a {text-decoration: none;}
     /* display: none; */
 }
 
-.sportPhoto1{
+.volleyballPhoto{
     width: 700px;
     height: 700px;
     background-image: url("../public/photo/activity-volleyballCourt.jpg");
@@ -124,8 +124,8 @@ a {text-decoration: none;}
     background-repeat: no-repeat;
     border-radius: 50%;
     position: absolute;
-    left: 400px;
-    top: 300px;
+    left: 20%;
+    top: 30%;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
     z-index: -1;
@@ -134,7 +134,7 @@ a {text-decoration: none;}
 
 }
 
-.sportPhoto1Hover{
+.volleyballPhotoHover{
     width: 700px;
     height: 700px;
     background-image: url("../public/photo/activity-volleyballCourt.jpg");
@@ -143,8 +143,8 @@ a {text-decoration: none;}
     background-repeat: no-repeat;
     border-radius: 50%;
     position: absolute;
-    left: 400px;
-    top: 300px;
+    left: 20%;
+    top: 30%;
     opacity: 60%;
     transition: opacity 0.5s ease-in-out;
     z-index: -1;
@@ -152,7 +152,7 @@ a {text-decoration: none;}
 }
 
 
-.sportPhoto2{
+.shuttlecockPhoto{
     width: 700px;
     height: 700px;
     background-image: url("../public/photo/activity-shuttlecockCourt.jpg");
@@ -161,8 +161,8 @@ a {text-decoration: none;}
     background-repeat: no-repeat;
     border-radius: 50%;
     position: absolute;
-    left: -50px;
-    top: 20px;
+    left: -2%;
+    top: 3%;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
     z-index: -1;
@@ -171,7 +171,7 @@ a {text-decoration: none;}
 
 }
 
-.sportPhoto2Hover{
+.shuttlecockPhotoHover{
     width: 700px;
     height: 700px;
     background-image: url("../public/photo/activity-shuttlecockCourt.jpg");
@@ -180,8 +180,8 @@ a {text-decoration: none;}
     background-repeat: no-repeat;
     border-radius: 50%;
     position: absolute;
-    left: -50px;
-    top: 20px;
+    left: -2%;
+    top: 3%;
     opacity: 80%;
     transition: opacity 0.5s ease-in-out;
     z-index: -1;
